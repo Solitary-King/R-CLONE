@@ -1,11 +1,15 @@
 # R-CLONE
 
-#pkg update -y
+# pkg update -y
 
-#pkg upgrade -y
+# pkg upgrade -y
 
-#pkg install python -y
+# pkg install python -y
 
-#pkg install git -y
+# pkg install git -y
 
-#git clone 
+# git clone https://github.com/Solitary-King/R-CLONE
+
+# cd R-CLONE
+
+# python r-clone.py
