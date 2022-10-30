@@ -398,12 +398,12 @@ logo = ("""
 \x1b[1;92m |/   \__/\_______/|/     \|(_______)|/    )_)
 
    \x1b[1;92m╔═════════════════════════════╗
-   \x1b[1;92m║➣TOOL NAME : { RIMON }   ║
-   \x1b[1;92m║➣AUTHOR    : Md RIMON       ║
-   \x1b[1;92m║➣WHATSAPP    : 01313322086 ║
+   \x1b[1;92m║➣TOOL NAME : { RIMON }             ║
+   \x1b[1;92m║➣AUTHOR    : MD GOLAM RABBE ISLAM  ║
+   \x1b[1;92m║➣WHATSAPP    : 01313322086         ║
    \x1b[1;92m║➣FACEBOOK  : Solitary King Rimon   ║
-   \x1b[1;92m║➣TELEGRAM     : 01313322086 ║
-   \x1b[1;92m║➣WHATSAPP  : [ ERROR ]       ║
+   \x1b[1;92m║➣TELEGRAM     : 01313322086        ║
+   \x1b[1;92m║➣WHATSAPP  : [ ERROR ]             ║
    \x1b[1;92m╚═════════════════════════════╝""")
 
 class Main:
